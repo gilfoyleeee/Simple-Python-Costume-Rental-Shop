@@ -1,0 +1,19 @@
+ 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Rent Invoice for Kushal Thapa<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                        
+       Shop Name: Kushal Costume Rental Shop         Email Address : kusCostumeRental@gmail.com                                  
+       Shop Address: Belbari-03, Morang              Date of Rent : 2022-08-26                     
+                                                                                                  
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Customer and Costume Details<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+                                                                                                  
+                Costumer's Name             : Kushal Thapa                                       
+                Costume                     : Cop Costume Set                                       
+                costumeBrand                : Cartmax                                      
+                Total Renting Days          : 5 days                                              
+                Total no. of costume rented : 20                                      
+                Total Price                 : $300.0                        
+                                                                                                  
+                Note : $100 will be extra fine charge if you delay the returning of Costume.      
+                                                                                                  
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Thanks for visiting us<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                

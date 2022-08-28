@@ -1,0 +1,19 @@
+ 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Return Invoice for Kushal Thapa<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+   Shop Name: Kushal Costume Rental Shop           Shop Email: kusCostumeRental@gmai.com
+   Shop Address: Belbari-03, Morang               Date of Rent: 2022-08-26
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Customer and Costume Details<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+        
+        Costumer's Name             : Kushal Thapa 
+        Costume                     : Fairy Costume Full Set
+        costumeBrand                : DollarSmart
+        Total renting Days          : 3
+        Total costume returned      : 20
+        Total Price                 : $360.0
+
+        Note : $100 will be extra fine charge if you delay the returning of Costume.
+        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Thanks for visiting us<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                        

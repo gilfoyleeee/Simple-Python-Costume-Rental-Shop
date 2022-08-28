@@ -1,0 +1,3 @@
+Cop Costume Set,Cartmax,$15, 80
+Formal Suite(Black Premium),Megaplex,$14.5, 100
+Fairy Costume Full Set,DollarSmart,$18, 120
